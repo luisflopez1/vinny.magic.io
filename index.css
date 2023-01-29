@@ -1,0 +1,54 @@
+body {
+	background-color: #89ffef;
+}
+
+h1 {
+	font-size: 75px;
+}
+
+h2 {
+	text-align: center;
+	font-size: 42px;
+}
+
+img {
+	width: 250px;
+	margin: 0 auto;
+	display: block;
+	box-shadow: 10px 10px 10px
+
+}
+
+ul {
+	width: 675px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+li {
+	display: inline-block;
+	font-size: 28px;
+	padding: 25px;
+}
+
+.main {
+	width: 885px;
+	margin: 0 auto;
+}
+
+button {
+	display: block;
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	margin: 0 auto;
+	color: white;
+	background-color: red;
+	font-size: 25px;
+	border: none;
+}
+
+button:active {
+	background-color: white;
+	color: red;
+}
